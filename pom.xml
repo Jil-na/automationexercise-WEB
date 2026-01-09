@@ -38,11 +38,6 @@
             <version>5.6.3</version>
         </dependency>
 
-        <dependency>
-        	<groupId>MavenProject</groupId>
-        	<artifactId>MavenProject</artifactId>
-        	<version>0.0.1-SNAPSHOT</version>
-        </dependency>
     </dependencies>
 
     <build>

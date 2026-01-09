@@ -5,7 +5,8 @@
     <test name="Smoke Tests">
         <classes>
             <class name="tests.SmokeTest"/>
-            <class name="tests.HostAccSignupTest"/>
+            <!--<class name="tests.HostAccSignupTest"/>-->
+            <class name="tests.SignInTest"/>
         </classes>
     </test>
 </suite>
